@@ -1,2 +1,2 @@
-# TrendZ
-E commerce 
+# EcommerceApp
+Clothe brand
